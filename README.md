@@ -128,7 +128,7 @@ HTML • CSS • JavaScript
 ## 🚀 Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,vite" height="60"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" height="60"/>
 </p>
 
 ---
@@ -136,7 +136,7 @@ HTML • CSS • JavaScript
 ## ⚙ Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" height="60"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/>
 </p>
 
 ---
@@ -152,7 +152,7 @@ HTML • CSS • JavaScript
 ## 🛠 Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,render" height="60"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,render,vercel,netlify,render" height="60"/>
 </p>
 
 ---
