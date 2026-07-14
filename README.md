@@ -152,7 +152,7 @@ HTML • CSS • JavaScript
 ## 🛠 Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,render,vercel,netlify,render" height="60"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,render" height="60"/>
 </p>
 
 ---
