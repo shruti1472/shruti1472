@@ -263,3 +263,5 @@ HTML • CSS • JavaScript
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=120&section=footer"/>
 </p>
+
+![snake gif](https://github.com/shruti1472/shruti1472/blob/output/github-snake-dark.svg)
