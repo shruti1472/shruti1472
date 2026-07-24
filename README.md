@@ -252,7 +252,7 @@ HTML • CSS • JavaScript
 - Performance Optimization
 - Scalable Application Architecture
 
----
+----
 
 # ⚡ Fun Fact
 
